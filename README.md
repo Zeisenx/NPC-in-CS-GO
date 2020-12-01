@@ -1,4 +1,4 @@
-# NPC in CS-GO
+# NPC in CS:GO
 A implementation npc works in CS:GO.
 
 I made these few years ago and I'm not working on it no longer.
